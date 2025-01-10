@@ -6,8 +6,11 @@
 }
 
 body {
-  background-color: gray;
-  color: #080000;
+  background-image: url(https://thumbs.dreamstime.com/b/colorful-decorated-to-do-list-113683191.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-color: rgb(59, 57, 57); */
+  /* color: #080000; */
   /* font-family: 'Poppins', sans-serif; */
   font-family: Garamond, serif;
   display: flex;
@@ -19,10 +22,10 @@ body {
 }
 
 h1 {
-  color: rgb(169, 10, 10);
+  color: rgb(0, 0, 0);
   font-size: 10rem;
   text-align: center;
-  opacity: 0.4;
+  /* opacity: 0.4; */
 }
 
 form {
